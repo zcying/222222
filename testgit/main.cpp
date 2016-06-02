@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-	cout << "hello git" << endl;
+	cout << "test again" << endl;
 	system("pause");
 	return 0;
 }
